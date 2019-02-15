@@ -1,5 +1,20 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+#### Table of contents
+- [Getting Started](#getting-started)
+- [Available Scripts](#available-scripts)
+- [Learn More](#learn-more)
+- [Code Splitting](#code-splitting)
+- [Analyzing the Bundle Size](#analyzing-the-bundle-size)
+- [Making a Progressive Web App](#making-a-progressive-web-app)
+- [Advanced Configuration](#advanced-configuration)
+- [Deployment](#deployment)
+
+## Getting Started
+1. Run `git clone git@github.com:KWLEvans/deck-builder.git deck-builder`
+2. Change Directory into the project with `cd deck-builder`
+3. Start the project with `npm start` / see [Available Scripts](#available-scripts)
+
 ## Available Scripts
 
 In the project directory, you can run:
